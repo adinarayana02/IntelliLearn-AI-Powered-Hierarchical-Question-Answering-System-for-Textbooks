@@ -4,3 +4,4 @@ networkx
 sentence-transformers
 openai
 transformers
+python-dotenv
